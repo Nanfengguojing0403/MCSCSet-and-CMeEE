@@ -1,0 +1,14 @@
+RoBERTa-wwm-ext-GCA-crf:
+Precision: 92.36
+Recall: 91.45
+F1 Score: 91.90
+
+RoBERTa-wwm-ext-crf:
+Precision: 92.03
+Recall: 91.19
+F1 Score: 91.61
+
+RoBERTa-wwm-ext-NoAtt-crf:
+Precision: 91.10
+Recall: 90.52
+F1 Score: 90.31
