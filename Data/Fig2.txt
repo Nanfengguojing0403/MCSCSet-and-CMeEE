@@ -1,0 +1,35 @@
+RoBERTa-wwm-ext-GCA-crf:
+Epoch 0      77.01
+Epoch 10    89.88
+Epoch 20    90.98
+Epoch 30    90.54
+Epoch 40    90.51
+Epoch 50    92.08
+Epoch 60    89.85
+Epoch 70    90.88
+Epoch 80    90.62
+Epoch 90    90.61
+
+BERT-crf:
+Epoch 0      66.53
+Epoch 10    86.45
+Epoch 20    88.39
+Epoch 30    88.88
+Epoch 40    90.52
+Epoch 50    90.84
+Epoch 60    90.67
+Epoch 70    91.07
+Epoch 80    91.22
+Epoch 90    91.31
+
+MacBERT-base-crf:
+Epoch 0      56.48
+Epoch 10    86.85
+Epoch 20    89.53
+Epoch 30    90.09
+Epoch 40    89.99
+Epoch 50    90.15
+Epoch 60    90.06
+Epoch 70    90.42
+Epoch 80    89.57
+Epoch 90    90.48
